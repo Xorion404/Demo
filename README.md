@@ -1,3 +1,3 @@
 # Demo
-My first Git Repo
+My first Git Repo.
 Author - Hridhaan Desai
